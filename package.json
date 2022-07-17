@@ -1,0 +1,26 @@
+{
+  "name": "arrays",
+  "version": "1.0.0",
+  "description": "Js Array Methods",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horacioskrp/Js-ArrayMethods.git"
+  },
+  "keywords": [
+    "js",
+    "array",
+    "methos",
+    "nodsJs"
+  ],
+  "author": "horacio_skrp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horacioskrp/Js-ArrayMethods/issues"
+  },
+  "homepage": "https://github.com/horacioskrp/Js-ArrayMethods#readme"
+}
